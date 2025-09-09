@@ -1,9 +1,8 @@
-## Hi there 👋
+##  Hey guys, I'm Wajiha👋
 
 
 <div align="center">
   
-##  Hey guys, I'm Wajiha👋
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 🚀  
 
 ![Hacker Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
@@ -23,12 +22,14 @@ A quick Fact note 💫
   -
        👉🏻 Developing malware as Ethical hacker
 
-- 🤔 I’m looking for help with DevOps & Security Tool Integration ![HackerGIF](https://github.com/user-attachments/assets/f9b4c7cc-e4d2-4440-827a-935c361fbe2b)
+- 🤔 I’m looking for help with DevOps & Security Tool Integration 
   
 - 💬 Ask me about
 - 
          🖥 Programming Languages: C++, Python, HTML, CSS
+  -
          💻 Linux & Windows commands (Bash, CMD, PowerShell)
+  -
          🔐 Ethical hacking
 
 - 😄 Pronouns: She/her 
