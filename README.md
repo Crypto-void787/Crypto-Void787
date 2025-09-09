@@ -46,18 +46,14 @@ A quick Fact note 💫
 
 ## 📊 GitHub Stats  
 
-![Wajiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=radical)  
+![Wajiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
+
 
 ---
 
-## 🐍 Watch my contributions turn into a Snake  
-![Snake animation](https://github.com/Crypto-Void787/Crypto-Void787/blob/output/github-contribution-grid-snake.svg)  
-
----
 
 ## 🌍 Connect With Me  
 
