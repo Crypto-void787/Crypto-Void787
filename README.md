@@ -14,7 +14,9 @@ A quick Fact note 💫
 
 - 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python
+
+- 🤔 I’m looking for help with DevOps & Security Tool Integration 
 
 - 👯 I’m looking to collaborate on
 
@@ -23,7 +25,7 @@ A quick Fact note 💫
   -
        👉🏻 Developing malware as Ethical hacker
 
-- 🤔 I’m looking for help with DevOps & Security Tool Integration 
+
   
 - 💬 Ask me about
 
@@ -34,9 +36,10 @@ A quick Fact note 💫
   -
          🔐 Ethical hacking
 
-- 😄 Pronouns: She/her 
 
 - ⚡ Fun fact: M jus brainin' and wbu ?
+- 😄 Pronouns: She/her 
+
 
   
 
