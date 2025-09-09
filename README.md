@@ -49,9 +49,10 @@ A quick Fact note 💫
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Find Me At  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wajiha-arif/)   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zeroday_overloa)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF9900?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackrgirl) [![CodeDex](https://img.shields.io/badge/CodeDex-0099FF?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codedex.io/@baddii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajiha-arif/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Bit_Baddiee) [![HackTheBox](https://img.shields.io/badge/HackTheBox-6AC259?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/home/users/profile/Baddii) [![PenCollege](https://img.shields.io/badge/PenCollege-FF5733?style=for-the-badge&logo=education&logoColor=white)](https://pw.college/users/PwnBaddie.exe) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zeroday_overload) [![Credly](https://img.shields.io/badge/Credly-3B99FC?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/wajiha-arif787)
+
 
 ---
 
