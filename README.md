@@ -15,15 +15,18 @@ A quick Fact note 💫
 
 - 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
 
-- 🌱 I’m currently learning python ![CodingAnimeGIF](https://github.com/user-attachments/assets/4bb9ade1-d73d-4401-9ba0-8f843412e2ec)
+- 🌱 I’m currently learning python 
 
 - 👯 I’m looking to collaborate on
+- 
       - 👉🏻 Offensive Security / Red Team projects
-      - 👉🏻 Developing malware as Ethical hacker
+  -
+       👉🏻 Developing malware as Ethical hacker
 
 - 🤔 I’m looking for help with DevOps & Security Tool Integration ![HackerGIF](https://github.com/user-attachments/assets/f9b4c7cc-e4d2-4440-827a-935c361fbe2b)
   
 - 💬 Ask me about
+- 
          🖥 Programming Languages: C++, Python, HTML, CSS
          💻 Linux & Windows commands (Bash, CMD, PowerShell)
          🔐 Ethical hacking
