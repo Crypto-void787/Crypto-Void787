@@ -39,7 +39,7 @@ A quick Fact note 💫
 
 
 - ⚡ Fun fact: M jus brainin' and wbu ?
-- 
+
 - 😄 Pronouns: She/her 
 
 
