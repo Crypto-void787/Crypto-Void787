@@ -17,16 +17,16 @@ A quick Fact note 💫
 - 🌱 I’m currently learning python 
 
 - 👯 I’m looking to collaborate on
-- 
-      - 👉🏻 Offensive Security / Red Team projects
+  - 
+       👉🏻 Offensive Security / Red Team projects
   -
        👉🏻 Developing malware as Ethical hacker
 
 - 🤔 I’m looking for help with DevOps & Security Tool Integration 
   
 - 💬 Ask me about
-- 
-         🖥 Programming Languages: C++, Python, HTML, CSS
+  - 
+          🖥 Programming Languages: C++, Python, HTML, CSS
   -
          💻 Linux & Windows commands (Bash, CMD, PowerShell)
   -
@@ -34,7 +34,7 @@ A quick Fact note 💫
 
 - 😄 Pronouns: She/her 
 
-- ⚡ Fun fact: M jus braining and wbu ? 
+- ⚡ Fun fact: M jus brainin' and wbu ? 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
