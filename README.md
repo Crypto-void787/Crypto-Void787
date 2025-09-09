@@ -5,7 +5,8 @@
   
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 🚀  
 
-![Hacker Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+ ![TakaneLuiHackerManGIF (2)](https://github.com/user-attachments/assets/6f19bc2d-d83a-4700-bff9-274ef170fd19)
+
 
 </div>
 
@@ -43,7 +44,7 @@ A quick Fact note 💫
 - 😄 Pronouns: She/her 
 
 
-  
+  ## Tools I know✌🏻
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 
@@ -51,9 +52,11 @@ A quick Fact note 💫
 
 ## 📊 GitHub Stats  
 
-![Wajiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
+![Wajiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
+
+
 
 
 
