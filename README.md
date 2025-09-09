@@ -26,7 +26,8 @@ A quick Fact note 💫
 - 🤔 I’m looking for help with DevOps & Security Tool Integration 
   
 - 💬 Ask me about
-  - 
+
+  -
           🖥 Programming Languages: C++, Python, HTML, CSS
   -
          💻 Linux & Windows commands (Bash, CMD, PowerShell)
