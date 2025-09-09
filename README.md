@@ -21,9 +21,10 @@ A quick Fact note 💫
 - 👯 I’m looking to collaborate on
 
   - 
-       👉🏻 Offensive Security / Red Team projects
+       👩🏻‍💻 Offensive Security / Red Team projects
+    
   -
-       👉🏻 Developing malware as Ethical hacker
+       ✌🏻Developing malware as Ethical hacker
 
 
   
@@ -38,6 +39,7 @@ A quick Fact note 💫
 
 
 - ⚡ Fun fact: M jus brainin' and wbu ?
+- 
 - 😄 Pronouns: She/her 
 
 
