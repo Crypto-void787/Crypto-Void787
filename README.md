@@ -17,6 +17,7 @@ A quick Fact note 💫
 - 🌱 I’m currently learning python 
 
 - 👯 I’m looking to collaborate on
+
   - 
        👉🏻 Offensive Security / Red Team projects
   -
