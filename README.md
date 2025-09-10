@@ -43,8 +43,6 @@ A quick Fact note 💫
 
 ## 📊 GitHub Stats  
 
-![Wajiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=radical&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
 
 ---
