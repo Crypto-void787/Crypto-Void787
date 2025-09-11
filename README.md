@@ -4,7 +4,8 @@
 <div align="center">
   
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 🚀  
-<img align="right" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="200"/>
+
+<img align="right" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="400"/>
 
 </div>
 
