@@ -1,17 +1,18 @@
-##  Hey guys, I'm Wajiha Arif👋
+<h2 align="center"> Hey guys, I'm <span style="color:#FF2E63">Wajiha Arif</span> 👋</h2>
 
 
 <div align="center">
   
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 
-<img align="right" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="400"/>
+<img align="right" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="350"/>
 
 </div>
 
 ---
 
-## A Quick Fact Note 💫  
- <img align="right" src="https://github.com/user-attachments/assets/f0638495-d5d3-47b7-9da3-ecbbe886c986" width="300"/>
+## Fast Facts About Me 💫  
+ <img align="right" src="https://github.com/user-attachments/assets/f0638495-d5d3-47b7-9da3-ecbbe886c986" width="350"/>
+
 
 
 - 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
@@ -56,4 +57,4 @@
 
 ---
 
-⭐️ From [Wajiha](https://github.com/Crypto-Void787)  
+Powered by [Crypto-Void787](https://github.com/Crypto-Void787) 🕶
