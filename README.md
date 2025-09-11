@@ -4,8 +4,7 @@
 <div align="center">
   
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 🚀  
-<img src="https://github.com/user-attachments/ass![NinjalaJaneGIF](https://github.com/user-attachments/assets/74d3f57b-ec72-49c7-a2c3-b417743e0f0c)" alt="TakaneLuiHackerManGIF (2)" width="400"/>
-
+<img align="right" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="200"/>
 
 </div>
 
