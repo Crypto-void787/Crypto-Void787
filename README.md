@@ -6,7 +6,7 @@
 💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 🚀  
 
 <img src="https://github.com/user-attachments/assets/6f19bc2d-d83a-4700-bff9-274ef170fd19" alt="TakaneLuiHackerManGIF (2)" width="400"/>
-![COmputyGIF](https://github.com/user-attachments/assets/f0638495-d5d3-47b7-9da3-ecbbe886c986)
+
 
 </div>
 
