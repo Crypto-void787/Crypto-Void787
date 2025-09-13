@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning python
 
-- 🤔 I’m looking for help with DevOps & Security Tool Integration 
+- 🤔 I’m looking for help with Security & DevSecOps
 
 - 👯 I’m looking to collaborate on
 
