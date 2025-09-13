@@ -1,36 +1,64 @@
-<h1 align="center">Hey 👋, I'm Wajiha Arif</h1>
-<h3 align="center">Cybersecurity Enthusiast | Offensive Security | Ethical Hacker</h3>
+<h2 align="center"> Hey guys, I'm <span style="color:#FF2E63">Wajiha Arif</span> 👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crypto-void787&label=Profile%20views&color=0e75b6&style=flat" alt="crypto-void787" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crypto-void787" alt="crypto-void787" /></a> </p>
+<div align="center">
+  
+💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 
 
-- 🔭 I’m currently working on **Red Teaming✌😉**
+<img align="center" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="350"/>
 
-- 🌱 I’m currently learning **Python**
+</div>
 
-- 👯 I’m looking to collaborate on **👩🏻‍💻 Offensive Security / Red Team projects ✌🏻 Developing malware as Ethical hacker**
+---
 
-- 🤝 I’m looking for help with **DevOps & Security Tool Integration**
+## Fast Facts About Me 💫  
+ <img align="right" src="https://github.com/user-attachments/assets/f0638495-d5d3-47b7-9da3-ecbbe886c986" width="350"/>
 
-- 💬 Ask me about **🔐 Ethical hacking**
 
-- ⚡ Fun fact **~nonesense**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wajiha-arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajiha-arif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zeroday_overload" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeroday_overload" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning python
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Crypto-Void787"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Crypto-Void787" /></a></p><br><br>
+- 🤔 I’m looking for help with DevOps & Security Tool Integration 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypto-void787&show_icons=true&locale=en&layout=compact" alt="crypto-void787" /></p>
+- 👯 I’m looking to collaborate on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crypto-void787&show_icons=true&locale=en" alt="crypto-void787" /></p>
+  - 👩🏻‍💻 Offensive Security / Red Team projects
+  - ✌🏻 Developing malware as Ethical hacker
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crypto-void787&" alt="crypto-void787" /></p>
+- 💬 Ask me about
+
+  - 🖥 Programming Languages: C++, Python, HTML, CSS
+  - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
+  - 🔐 Ethical hacking
+
+- ⚡ Fun fact: M jus brainin' and wbu ?
+
+- 😄 Pronouns: She/her 
+
+
+## Tools n skills I know 🛠✌🏻
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)   ![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logo=security&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![CMD](https://img.shields.io/badge/CMD-0078D6?style=for-the-badge&logo=windows&logoColor=white)   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)   ![Metasploit](https://img.shields.io/badge/Metasploit-FF5722?style=for-the-badge&logo=metasploit&logoColor=white)  
+
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
+
+---
+
+
+
+---
+
+Powered by [Crypto-Void787](https://github.com/Crypto-Void787) 🕶
