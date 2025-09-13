@@ -49,6 +49,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
 
+![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
+
 ---
 
 
