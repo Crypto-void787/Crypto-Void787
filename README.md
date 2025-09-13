@@ -49,11 +49,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=radical)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -64,7 +63,7 @@
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=tokyonight)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
