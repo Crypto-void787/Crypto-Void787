@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-Void787&theme=tokyonight&background=0d1117&date_format=j%20M%5B%20Y%5D&fire=FF6D00&ring=FFD700)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
 
