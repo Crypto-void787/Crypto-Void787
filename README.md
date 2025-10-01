@@ -33,7 +33,7 @@
   - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
   - 🔐 Ethical hacking
 
-- ⚡ Fun fact: M jus brainin' and wbu ?
+- ⚡ Fun fact:  I luv to play CHESS✌🏻 M jus brainin' and wbu ?
 
 - 😄 Pronouns: She/her 
 
