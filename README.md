@@ -1,4 +1,4 @@
-<h2 align="center"> Hey guys, I'm <span style="color:#FF2E63">Wajiha Arif</span> 👋</h2>
+<h2 align="center"> Yoo Sup! </h2>
 
 
 <div align="center">
