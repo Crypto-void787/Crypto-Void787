@@ -12,8 +12,6 @@
 ---
 
 ## Fast Facts About Me 💫  
- <img align="right" src="https://github.com/user-attachments/assets/f0638495-d5d3-47b7-9da3-ecbbe886c986" width="350"/>
-
 
 
 - 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
