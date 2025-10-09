@@ -1,4 +1,4 @@
-<h2 align="center"> Yoo Sup! </h2>
+<h2 align="left"> Yoo wsuuup! </h2>
 
 
 <div align="center">
