@@ -52,9 +52,3 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
 
 ---
-
-
-
----
-
-Powered by [Crypto-Void787](https://github.com/Crypto-Void787) 🕶
