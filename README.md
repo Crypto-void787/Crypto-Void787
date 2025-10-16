@@ -3,7 +3,7 @@
 
 <div align="center">
   
-💻 Cybersecurity Enthusiast | Offensive Security | Self-Learner 
+Emerging Tech Innovator | AI-Augmented OffSec | DevSecOps
 
 <img align="center" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="350"/>
 
@@ -11,14 +11,14 @@
 
 ---
 
-## Fast Facts About Me 💫  
+## About Me 💫  
 
 
-- 🔭 I’m currently working on Bug Bounty & Red Teaming✌😉 
+- 🔭 I’m currently working on AI-Augmented OffSec n emerging tech✌
 
 - 🌱 I’m currently learning python
 
-- 🤔 I’m looking for help with Security & DevSecOps
+- 🤔 I’m looking for help with DevSecOps
 
 - 👯 I’m looking to collaborate on
 
@@ -31,7 +31,6 @@
   - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
   - 🔐 Ethical hacking
 
-- ⚡ Fun fact: M jus brainin' and wbu ?
 
 
 ## Tools n skills I know 🛠✌🏻
