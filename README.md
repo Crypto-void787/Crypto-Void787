@@ -1,13 +1,12 @@
 <h2 align="left"> Yoo wsuuup! </h2>
 
-
 <div align="center">
   
 Emerging Tech Innovator | DevSecOps
 
-<img align="center" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="350"/>
-
-</div>
+  <img src="https://github.com/user-attachments/assets/dafe6513-d3cb-4055-9854-0e36df119978" width="350"/>
+  
+</div> 
 
 ---
 
