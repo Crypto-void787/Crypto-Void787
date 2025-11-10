@@ -1,16 +1,42 @@
-## Hi there 👋
+<h2 align="left"> Yoo wsuuup! </h2>
 
-<!--
-**Crypto-void787/Crypto-Void787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+Emerging Tech Innovator | DevSecOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github.com/user-attachments/assets/69fc5fc1-ebed-481c-b233-bf11bb7b58fa" width="350"/>
+
+</div>
+
+---
+
+## About Me 💫  
+
+
+- 🔭 I’m currently working on AI-Augmented OffSec n emerging tech✌
+
+- 🌱 I’m currently learning python
+
+- 🤔 I’m looking for help with DevSecOps
+
+- 💬 Ask me about
+
+  - 🖥 Programming Languages: C++, Python, HTML, CSS
+  - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
+  - 🔐 Ethical hacking
+
+
+
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
+
+![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
+
+---
