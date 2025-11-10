@@ -1,4 +1,10 @@
-<h2 align="left"> Yoo wsuuup! </h2>   <h2 align="right"> ![Profile views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet) </h2>
+<h2 align="left"> Yoo wsuuup! </h2>  
+
+<div align="right">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Crypto-Void787&color=blueviolet)
+
+</div>
 
 
 <div align="center">
@@ -36,5 +42,4 @@ Emerging Tech Innovator | DevSecOps
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
-
 ---
