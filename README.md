@@ -20,17 +20,16 @@ Emerging Tech Innovator | DevSecOps
 ## About Me 💫  
 
 
-- 🔭 I’m currently working on AI-Augmented OffSec n emerging tech✌
+- 🔭 I’m currently working on AI-Augmented OffSec✌
 
 - 🌱 I’m currently learning python
-
-- 🤔 I’m looking for help with DevSecOps
 
 - 💬 Ask me about
 
   - 🖥 Programming Languages: C++, Python, HTML, CSS
   - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
   - 🔐 Ethical hacking
+  - 🌏Network Infra 
 
 
 
@@ -38,8 +37,6 @@ Emerging Tech Innovator | DevSecOps
 ---
 
 ## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=radical)  
 ---
