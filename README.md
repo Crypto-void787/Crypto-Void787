@@ -9,7 +9,7 @@
 
 <div align="center">
   
-Emerging Tech Innovator | DevSecOps
+Emerging Tech Innovator
 
   <img src="https://github.com/user-attachments/assets/dafe6513-d3cb-4055-9854-0e36df119978" width="350"/>
   
