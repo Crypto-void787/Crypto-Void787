@@ -29,7 +29,21 @@ Emerging Tech Innovator
   - 🖥 Programming Languages: C++, Python, HTML, CSS
   - 💻 Linux & Windows commands (Bash, CMD, PowerShell)
   - 🔐 Ethical hacking
-  - 🌏Network Infra 
+  - 🌏Network Infra
+
+
+ ## 📊 GitHub Stats
+
+![Crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-Void787&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Crypto-void787&theme=tokyonight)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Crypto-void787&theme=tokyonight)
+
 
 
 
