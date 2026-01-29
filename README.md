@@ -32,10 +32,6 @@ Emerging Tech Innovator
   - 🌏Network Infra
 
 
- ## 📊 GitHub Stats
-
-![Crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Void787&show_icons=true&theme=tokyonight)
-
 
 ## 💻 Top Languages
 
